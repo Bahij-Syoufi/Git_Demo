@@ -8,3 +8,8 @@ body {
   background-color: #3495db;
   color: #FFF;
 }
+
+
+h1, h2, h3 {
+  color: #333;
+}
